@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(147, 172, 165);
+
+}
+p{ 
+    
+    color:black;
+    background-color:rgb(245, 178, 198);
+    font-style: italic;
+   font-size: 20px;
+    text-align: center;
+}
+.grid{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item1{
+    margin:1%;
+    text-align: center;
+}
+.item2{
+    margin:1%;
+    text-align: center;
+}
+
+img{
+    height: 500px;
+    width: 400px;
+    
+}
+.first{
+    text-align: left; 
+    letter-spacing: 1px;
+    color:rgb(212, 124, 124);
+}
+.second{
+    text-align: center; 
+    letter-spacing: 1px;
+    color:rgb(212, 124, 124);
+}
+h1{
+    text-align: left;
+    background-color: rgb(223, 210, 210);
+    color:rgb(12, 12, 12);
+}
+h2{ 
+    color:rgb(230, 201, 201);
+
+}
